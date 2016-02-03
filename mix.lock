@@ -1,0 +1,2 @@
+%{"hulaaki": {:hex, :hulaaki, "0.0.2"},
+  "poolboy": {:hex, :poolboy, "1.5.1"}}
