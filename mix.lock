@@ -1,2 +1,3 @@
 %{"hulaaki": {:hex, :hulaaki, "0.0.2"},
+  "poison": {:hex, :poison, "2.0.1"},
   "poolboy": {:hex, :poolboy, "1.5.1"}}

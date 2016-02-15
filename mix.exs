@@ -34,7 +34,8 @@ defmodule MessageSpammer.Mixfile do
   defp deps do
     [
       {:hulaaki, "~> 0.0.2"},
-      {:poolboy, "~> 1.5"}
+      {:poolboy, "~> 1.5"},
+      {:poison, "~> 2.0"}
     ]
   end
 end
